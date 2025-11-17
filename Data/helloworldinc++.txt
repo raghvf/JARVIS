@@ -1,0 +1,27 @@
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+
+**Explanation:**
+
+* `#include <iostream>`: This line includes the iostream header file, which allows us to use input/output functions like `std::cout`.
+* `int main()`: This is the main function where the program starts execution.
+* `std::cout << "Hello, World!" << std::endl;`: This line prints "Hello, World!" to the console, followed by a newline character.
+* `return 0;`: This line returns an exit status of 0, indicating that the program has executed successfully.
+
+**Compilation and Execution:**
+
+1. Save this code in a file with a `.cpp` extension, e.g., `hello.cpp`.
+2. Compile the code using `g++ hello.cpp -o hello`.
+3. Run the program using `./hello` (on Linux/macOS) or `hello.exe` (on Windows).
+
+**Output:**
+
+```
+Hello, World!
+```

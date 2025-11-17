@@ -1,0 +1,26 @@
+Here is an application to the principal for sick leave:
+
+To,
+The Principal,
+[School/College Name],
+[School/College Address].
+
+Subject: Application for Sick Leave.
+
+Respected Sir/Madam,
+
+I, Raghav, a student of [Class/Grade] in your esteemed institution, am writing to request a leave of absence due to illness. Unfortunately, I have been suffering from [mention the illness, e.g., fever, cold, etc.] since [date] and am currently under medical treatment.
+
+My doctor has advised me to take complete rest for [number of days] to ensure a speedy recovery. I am attaching a medical certificate from my doctor to support my application.
+
+I apologize for any inconvenience this may cause and will make sure to catch up on any missed assignments and classes as soon as I am feeling better. I will also ensure that my academic work does not suffer due to my absence.
+
+I kindly request you to grant me a sick leave from [date] to [date]. I will be grateful if you could approve my application.
+
+Thank you for your understanding and support.
+
+Sincerely,
+Raghav
+[Class/Grade]
+[Roll Number]
+[Date]
